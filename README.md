@@ -1,6 +1,8 @@
 # Millennials to Snake People Pure
 
-Browser extension that reveals the *real* truth behind Millennials.
+This is a simple fork of the Chrome browser extension, "Millennials to Snake People" - with easter eggs and non-millenial conversions removed.
+
+(was: Browser extension that reveals the *real* truth behind Millennials.)
 
 
 ## Installation
@@ -30,12 +32,3 @@ Big thanks to ericwbailey and the folks who worked on https://github.com/ericwba
 ### BuzzFeed
 [![BuzzFeed](https://i.imgur.com/PT1NWX5.png)](http://www.buzzfeed.com/sapna/what-public-companies-are-telling-wall-street-about-millenni)
 
-### Installed Extensions
-#### Chrome
-![](https://i.imgur.com/xAzfhw8.png)
-
-#### Firefox
-![](http://i.imgur.com/ro9zkDl.png)
-
-#### Safari
-![](https://camo.githubusercontent.com/e244891000642e281c202b4fbd07b14fcf2bf4d7/687474703a2f2f61322e642e70722f477757712e706e67)
