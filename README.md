@@ -1,4 +1,4 @@
-# Millennials to Snake People
+# Millennials to Snake People Pure
 
 Browser extension that reveals the *real* truth behind Millennials.
 
@@ -7,8 +7,6 @@ Browser extension that reveals the *real* truth behind Millennials.
 
 1. Add the extension to your browser of choice: 
   - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
-  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/)
-  - [Safari](https://github.com/a2/millennials-to-snake-people/releases)
 - [Free your mind](https://www.google.com/search?q=Millennials)
 
 
@@ -18,7 +16,7 @@ Browser extension that reveals the *real* truth behind Millennials.
 
 
 ## Thanks
-Big thanks to [samford](https://github.com/samford) and [vandahm](https://github.com/vandahm) for their assistance, and [a2](https://github.com/a2) and [pselle](https://github.com/pselle) for the Safari and Firefox ports. 
+Big thanks to ericwbailey and the folks who worked on https://github.com/ericwbailey/millennials-to-snake-people for all the entertainment, and doing 99.99999% of the work for this fork.
 
 
 ## Screenshots
