@@ -27,20 +27,6 @@ function replaceText(v)
     v = v.replace(/\b(M|m)ilennial(s)?\b/g, "$1illennial$2");
     v = v.replace(/\b(M|m)ilenial(s)?\b/g, "$1illennial$2");
 
-    // Millennial Generation
-    v = v.replace(
-        /\b(?:Millennial Generation)|(?:Generation Millennial)\b/g,
-        "Plissken Faction"
-    );
-    v = v.replace(
-        /\b(?:millennial generation)|(?:generation millennial)\b/g,
-        "Plissken faction"
-    );
-
-    // Millennialism
-    v = v.replace(/\bMillennialism\b/g, "Reptilianism");
-    v = v.replace(/\bmillennialism\b/g, "reptilianism");
-
     //  Gendered Millennials
     v = v.replace(/\bMillennial (M|m)(e|a)n('s)?\b/g, "Snake $1$2n$3");
     v = v.replace(/\bmillennial m(e|a)n('s)?\b/g, "snake m$1n$2");
